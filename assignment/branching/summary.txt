@@ -1,0 +1,3 @@
+#Branching
+Danni said that branching purposed to create a snapshot of our changes and also effectively to fix a small bug or fixes in separate workspace
+Branching is useful to use for work
